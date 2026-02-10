@@ -1,84 +1,87 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#00AEEF;">Milton Mascarenhas</span></h1>
-
-<h3 align="center">🚀 Java Full Stack Developer | Cybersecurity Enthusiast | Passionate Builder</h3>
-
----
-
-## 🌟 About Me
-I'm a passionate **Full Stack Developer** with strong skills in  
-**Java, Spring Boot, React.js, Node.js, MongoDB, MySQL**, and **modern web development**.  
-I love building **scalable applications**, **secure systems**, and solving real-world problems with clean, efficient code.
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00AEEF&width=700&lines=Hello,+I'm+Milton+Mascarenhas;Java+Full+Stack+Developer;Cybersecurity+Enthusiast;React+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+%26+Secure+Applications" />
+</p>
 
 ---
 
-## 🎯 **What I Bring to the Table**
-- 🔥 Strong understanding of **Java + Spring Boot**
-- ⚡ Hands-on experience in **React.js, REST APIs, Node.js**
-- 🛡️ Cybersecurity background from internship at **CyberSapiens**
-- 🌐 Built multiple production-like projects including  
-  *PeacePath Mental Health Platform*,  
-  *Decentralized Agriculture Supply Chain App*,  
-  and many powerful full-stack applications.
-- 🎯 Quick learner, problem solver & clean coder
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  I'm a passionate <b>Java Full Stack Developer</b> who loves<br>
+  <b style="color:#00AEEF;">building scalable, secure & high-performance applications.</b><br>
+  I work with modern tech like <b>Spring Boot, React.js, Node.js, MongoDB</b> and more.
+</p>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🌟 Skills & Technologies
 
-### 🔧 **Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+### 🔥 **Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,html,css,python" />
+</p>
 
-### 🎨 **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### 🗄️ **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-
-### 🧰 **Tools & Other Skills**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
+### 🧰 **Developer Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌿 **Decentralized Agriculture Supply Chain (Blockchain)**
-✔ Built using **Ganache**, **MetaMask**, **Solidity**, **Web3.js**  
-✔ Three dashboards: **Farmer | Buyer | Admin**  
-✔ Ensures **transparency, traceability & security**  
+### 🌿 **Decentralized Agriculture Supply Chain**
+✔ Built with **Solidity, Ganache, MetaMask, Web3.js**  
+✔ Dashboards for **Farmer, Buyer & Admin**  
+✔ Ensures **traceability, transparency & security**  
 
-### 🧘 **PeacePath – Mental Health Support Platform**  
-✔ Developed complete responsive UI (HTML, CSS, JS)  
-✔ Includes meditation tools & wellness resources  
+---
+
+### 🧘 **PeacePath – Mental Health Platform**
+✔ Built responsive UI with **HTML, CSS, JS**  
+✔ Meditation tools, wellness content  
 ✔ Designed for **smooth user experience**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milton-Mascarenhas&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Mascarenhas&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Milton-Mascarenhas&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milton-Mascarenhas&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Mascarenhas&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## ⚡ Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"></a>
+
+<p align="center">
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
+</a>
+
+<a href="mailto:youremail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge">
+</a>
 </p>
 
 ---
 
-<h2 align="center">🔥 “Code. Learn. Build. Repeat.” 🔥</h2>
+<h2 align="center">🔥 “Code • Create • Innovate • Repeat” 🔥</h2>
